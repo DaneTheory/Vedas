@@ -31,7 +31,7 @@
     "lint": "standard --fix --env jest --parser babel-eslint --verbose | snazzy",
     "build": "yarn clean && yarn lint && microbundle --name vedas",
     "release": "np",
-    "prepublish": "yarn buld && yarn release"
+    "prepublish": "yarn build"
   },
   "dependencies": {
     "castit": "^1.2.0",
