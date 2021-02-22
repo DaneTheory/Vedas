@@ -1,6 +1,6 @@
 {
   "name": "vedas",
-  "version": "1.0.4-0",
+  "version": "1.0.5-0",
   "description": "A hackable, extendable, functionally-composable way to go about dealing with wrangling types in JavaScript. Auto-casting, coercion, and type inference for the Alice in WOnderland world that is JS runtime.",
   "repository": "https://github.com/DaneTheory/Vedas.git",
   "author": "Branden Dane (https://DaneTheory.com) <DaneTheory@gmail.com>",
