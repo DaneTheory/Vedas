@@ -11,12 +11,13 @@
   "module": "dist/index.mjs",
   "source": "src/index.js",
   "scripts": {
+    "clean": "rimraf lib dist",
     "dev": "microbundle watch",
     "test": "jest",
     "coverage": "jest --coverage",
     "watch": "jest --watch",
     "lint": "standard --fix",
-    "build": "microbundle"
+    "build": "yarn clean && yarn lint && microbundle"
   },
   "dependencies": {
     "castit": "^1.2.0",
@@ -28,6 +29,7 @@
     "jest": "^26.6.3",
     "microbundle": "^0.13.0",
     "onchange": "^7.1.0",
+    "rimraf": "^3.0.2",
     "standard": "^16.0.3"
   },
   "standard": {

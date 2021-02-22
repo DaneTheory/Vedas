@@ -16,7 +16,7 @@ __WIP__, but dev is **very** active and rolling along fast. Expect a working ver
 <br />
 <p align="center">
   <a href="https://github.com/DaneTheory/Vedas">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="docs/images/logo.jpg" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Vedas</h3>
@@ -67,8 +67,7 @@ __WIP__, but dev is **very** active and rolling along fast. Expect a working ver
 <!-- ABOUT THE PROJECT -->
 ## About Vedas
 
-[![Product Name Screen Shot][product-screenshot]](docs/images/logo.png)
-
+[![Product Name Screen Shot][product-screenshot]](docs/images/logo.jpg)
 
 ### Built With
 * [CastIt](https://www.npmjs.com/package/castit)
