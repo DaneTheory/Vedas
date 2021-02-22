@@ -1,6 +1,8 @@
 # Vedas
 > __Auto type casting, coercian, and inference like the weakest, loosest wizard on the JavaScript block.__
 
+**NPM**: [Vedas Lib](https://www.npmjs.com/package/vedas)
+
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
