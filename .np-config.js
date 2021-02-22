@@ -5,7 +5,6 @@ module.exports = {
   cleanup: true,
   tests: true,
   publish: true,
-  tag: 'latest',
   releaseDraft: true,
   contents: 'dist',
   message: "Commit with versioned bump - v%s"
