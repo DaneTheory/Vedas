@@ -1,5 +1,6 @@
 module.exports = {
   yarn: true,
+  branch: 'main',
   anyBranch: false,
   cleanup: true,
   tests: true,
