@@ -30,7 +30,7 @@
     "watch": "jest --watch",
     "lint": "standard --fix --env jest --parser babel-eslint --verbose | snazzy",
     "build": "yarn clean && yarn lint && microbundle --name vedas",
-    "release": "np",
+    "release": "np --no-2fa",
     "prepublish": "yarn build"
   },
   "dependencies": {
