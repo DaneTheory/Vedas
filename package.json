@@ -34,5 +34,18 @@
     "env": {
       "jest": true
     }
-  }
+  },
+  "keywords": [
+    "danetheory",
+    "types",
+    "type",
+    "cast",
+    "coerce",
+    "coercian",
+    "auto-cast",
+    "type-inference",
+    "infer",
+    "auto",
+    "strings"
+  ]
 }
