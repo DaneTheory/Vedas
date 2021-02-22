@@ -16,7 +16,7 @@ __WIP__, but dev is **very** active and rolling along fast. Expect a working ver
 <br />
 <p align="center">
   <a href="https://github.com/DaneTheory/Vedas">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/DaneTheory/Vedas/blob/main/docs/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Vedas</h3>
@@ -197,4 +197,4 @@ Project Github Repo
 [license-url]: https://github.com/DaneTheory/Vedas/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/danetheory/
-[product-screenshot]: docs/images/screenshot.png
+[product-screenshot]: https://github.com/DaneTheory/Vedas/blob/main/docs/images/screenshot.png
