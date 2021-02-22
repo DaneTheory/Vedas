@@ -18,7 +18,7 @@ __WIP__, but dev is **very** active and rolling along fast. Expect a working ver
 <br />
 <p align="center">
   <a href="https://github.com/DaneTheory/Vedas">
-    <img src="docs/images/logo.jpg" alt="Logo" width="100" height="100">
+    <img src="docs/images/logo.jpg" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Vedas</h3>
