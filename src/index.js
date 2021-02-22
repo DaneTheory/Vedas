@@ -10,7 +10,6 @@ const ExportThree = () => {
   return 'Vedas destructured namespaced export three'
 }
 
-
 const Vedas = () => {
   return 'Youve been, THUNDERSTRUCk'
 }

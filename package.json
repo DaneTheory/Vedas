@@ -24,12 +24,12 @@
   ],
   "scripts": {
     "clean": "rimraf lib dist",
-    "dev": "microbundle --name vedas watch",
-    "test": "yarn lint && jest",
+    "dev": "microbundle --name Vedas watch",
+    "test": "jest",
     "coverage": "jest --coverage",
     "watch": "jest --watch",
     "lint": "standard --fix --env jest --parser babel-eslint --verbose | snazzy",
-    "build": "yarn clean && yarn lint && microbundle --name vedas",
+    "build": "yarn clean && yarn lint && microbundle --name Vedas",
     "release": "np --no-2fa",
     "prepublish": "yarn build"
   },
