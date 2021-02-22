@@ -6,6 +6,6 @@ module.exports = {
   tests: true,
   publish: true,
   releaseDraft: true,
-  contents: 'dist',
+  contents: '.',
   message: "Commit with versioned bump - v%s"
 }
