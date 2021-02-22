@@ -13,7 +13,7 @@
     ".": {
       "import": "./dist/index.module.js",
       "require": "./dist/index.js",
-      "default": "./dist/index.module.js"
+      "default": "./dist/index.js"
     }
   },
   "umd:main": "dist/index.umd.js",
