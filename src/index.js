@@ -1,6 +1,5 @@
 const vedas = () => {
-  return `You've been, THUNDERSTRUCk`
+  return 'Youve been, THUNDERSTRUCk'
 }
-
 
 export default vedas
